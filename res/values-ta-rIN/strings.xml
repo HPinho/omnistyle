@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (C) 2017 The OmniROM Project
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources>
+    <string name="browse_header">தலைப்புகள்</string>
+    <string name="custom_header_image_notice">தலைப்பு பட தொகுப்பு</string>
+    <string name="browse_walls">வால்பேப்பர்கள்</string>
+    <string name="omni_walls">ஆம்னி</string>
+    <string name="wallpaper_type_dialog_title">திரைப்பின்னணியை அமை</string>
+    <string name="wallpaper_type_both">முகப்பு திரை மற்றும் பூட்டு திரை</string>
+    <string name="wallpaper_type_system">முகப்புத் திரை</string>
+    <string name="wallpaper_type_lock">பூட்டு திரை</string>
+    <string name="header_creator_label">உருவாக்கியவர் \ u003 அ </string>
+    <string name="no_crop_activity_dialog_text">வால்பேப்பரை அமைக்க ஆம்னி கேலரி பயன்பாடு தேவை</string>
+    <string name="no_crop_activity_dialog_title">கேலரி இல்லை</string>
+    <string name="scrolling_wall_dialog_text">காட்சி அளவு \ u003f க்கு வால்பேப்பரை செதுக்க விரும்புகிறீர்களா</string>
+    <string name="scrolling_wall_dialog_title">வால்பேப்பரைச் செதுக்கு</string>
+    <string name="scrolling_wall_yes">இல்லை</string>
+    <string name="scrolling_wall_no">ஆம்</string>
+    <string name="wallpaper_location_local">இடம்</string>
+    <string name="wallpaper_location_remote">தொலைதூர கட்டுப்படுத்தி</string>
+    <string name="download_wallpaper_notice">வால்பேப்பர் பதிவிறக்கவும்</string>
+    <string name="download_wallpaper_failed_notice">வால்பேப்பரைப் பதிவிறக்குவது தோல்வியடைந்தது</string>
+    <string name="no_network_message">பிணைய இணைப்பு இல்லை</string>
+    <string name="download_wallpaper_list_failed_notice">வால்பேப்பர் கோப்பகத்தை ஏற்றுவதில் தோல்வி</string>
+    <string name="wallpaper_default_name">வால்பேப்பர்</string>
+    <string name="browse_theme_walls">தீம் வால்பேப்பர்கள்</string>
+    <string name="browse_theme_header">தீம் தலைப்புகள்</string>
+    <string name="pick_header">தலைப்பைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="pick_theme">தீம் தேர்ந்தெடுக்கவும்</string>
+    <string name="theme_disable">இயல்புநிலை</string>
+    <string name="sort_by_creator_menu">படைப்பாளரால் வரிசைப்படுத்து</string>
+    <string name="sort_by_tag_menu">குறிச்சொல் மூலம் வரிசைப்படுத்து</string>
+    <string name="sort_by_default_menu">பெயரால் வரிசைப்படுத்துங்கள்</string>
+    <string name="download_header_notice">வால்பேப்பர் பதிவிறக்கவும்</string>
+    <string name="download_header_failed_notice">வால்பேப்பரைப் பதிவிறக்குவது தோல்வியடைந்தது</string>
+    <string name="header_location_local">இடம்</string>
+    <string name="header_location_online">தொலைதூர கட்டுப்படுத்தி</string>
+    <string name="compose_theme">தீம் எழுதுங்கள்</string>
+    <string name="theme_accent">அசையழுத்தம்</string>
+    <string name="theme_primary">முதன்மை</string>
+    <string name="theme_notification">அறிவிக்கை</string>
+    <string name="theme_compose">எழுது</string>
+    <string name="button_apply">விண்ணப்பிக்கவும்</string>
+    <string name="notification_overlay_info">Notification அறிவிப்பு மேலடுக்கை மாற்றிய பின் மறுதொடக்கம் தேவை</string>
+    <string name="wavvy_header">வாவி (நேரம்)</string>
+    <string name="nature_header">இயற்கை (நேரம்)</string>
+    <string name="nature_header_random">இயற்கை (சீரற்ற)</string>
+    <string name="poly_header">பாலி (நேரம்)</string>
+</resources>

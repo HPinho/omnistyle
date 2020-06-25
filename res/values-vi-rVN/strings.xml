@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (C) 2017 The OmniROM Project
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources>
+    <string name="browse_header">(Tiêu đề) Headers</string>
+    <string name="custom_header_image_notice">Gói hình ảnh đầu mục</string>
+    <string name="browse_walls">Hình nền</string>
+    <string name="omni_walls">Omni</string>
+    <string name="wallpaper_type_dialog_title">Đặt hình nền</string>
+    <string name="wallpaper_type_both">Màn hình chính và màn hình khóa</string>
+    <string name="wallpaper_type_system">Màn hình chính</string>
+    <string name="wallpaper_type_lock">Màn hình khoá</string>
+    <string name="header_creator_label">Người sáng tạo\u003a </string>
+    <string name="no_crop_activity_dialog_text">Cần có ứng dụng thư viện ảnh Omni để đặt hình nền</string>
+    <string name="no_crop_activity_dialog_title">Không có thư viện ảnh</string>
+    <string name="scrolling_wall_dialog_text">Bạn có muốn cắt hình nền theo kích thước hiển thị\u003f</string>
+    <string name="scrolling_wall_dialog_title">Cắt hình nền</string>
+    <string name="scrolling_wall_yes">Không</string>
+    <string name="scrolling_wall_no">Có</string>
+    <string name="wallpaper_location_local">Nội bộ</string>
+    <string name="wallpaper_location_remote">Trực tuyến</string>
+    <string name="download_wallpaper_notice">Đang tải hình nền</string>
+    <string name="download_wallpaper_failed_notice">Tải hình nền thất bại</string>
+    <string name="no_network_message">Không có kết nối mạng</string>
+    <string name="download_wallpaper_list_failed_notice">Tải thư mục hình nền không thành công</string>
+    <string name="wallpaper_default_name">Hình nền</string>
+    <string name="browse_theme_walls">Hình nền chủ đề</string>
+    <string name="browse_theme_header">Tiêu đề chủ đề</string>
+    <string name="pick_header">Chọn tiêu đề</string>
+    <string name="pick_theme">Chọn chủ đề</string>
+    <string name="theme_disable">Mặc định</string>
+    <string name="sort_by_creator_menu">Sắp xếp theo người tạo</string>
+    <string name="sort_by_tag_menu">Sắp xếp theo thẻ</string>
+    <string name="sort_by_default_menu">Sắp xếp theo tên</string>
+    <string name="download_header_notice">Đang tải xuống tiêu đề</string>
+    <string name="download_header_failed_notice">Tải xuống tiêu đề không thành công</string>
+    <string name="header_location_local">Nội bộ</string>
+    <string name="header_location_online">Trực tuyến</string>
+    <string name="compose_theme">Soạn thảo chủ đề</string>
+    <string name="theme_accent">Màu nhấn (Accent)</string>
+    <string name="theme_primary">Mặc định</string>
+    <string name="theme_notification">Thông báo</string>
+    <string name="theme_compose">Soạn</string>
+    <string name="button_apply">Áp dụng</string>
+    <string name="notification_overlay_info">Yêu cầu khởi động lại sau khi \n thay đổi lớp phủ thông báo</string>
+    <string name="wavvy_header">Wavvy (thời gian)</string>
+    <string name="nature_header">Thiên nhiên (thời gian)</string>
+    <string name="nature_header_random">Thiên nhiên (ngẫu nhiên)</string>
+    <string name="poly_header">Poly (thời gian)</string>
+</resources>
