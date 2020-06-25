@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (C) 2017 The OmniROM Project
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources>
+    <string name="browse_header">Entêtes </string>
+    <string name="custom_header_image_notice">Image d\'en-tête</string>
+    <string name="browse_walls">Fonds d\'écran</string>
+    <string name="omni_walls">Omni</string>
+    <string name="wallpaper_type_dialog_title">Définir le fond d\'écran</string>
+    <string name="wallpaper_type_both">Écrans d\'accueil et de verrouillage</string>
+    <string name="wallpaper_type_system">Ecran d\'accueil</string>
+    <string name="wallpaper_type_lock">Écran de verrouillage</string>
+    <string name="header_creator_label">Créateur\u003a </string>
+    <string name="no_crop_activity_dialog_text">L\'application Omni Gallery est nécessaire pour modifier le fond d\'écran</string>
+    <string name="no_crop_activity_dialog_title">Galerie manquante</string>
+    <string name="scrolling_wall_dialog_text">Voulez-vous rogner le fond d\'écran à la taille d\'affichage\u003f</string>
+    <string name="scrolling_wall_dialog_title">Recadrer le fond d\'écran</string>
+    <string name="scrolling_wall_yes">Non</string>
+    <string name="scrolling_wall_no">Oui</string>
+    <string name="wallpaper_location_local">Mon appareil</string>
+    <string name="wallpaper_location_remote">En ligne</string>
+    <string name="download_wallpaper_notice">Téléchargement du fond d\'écran …</string>
+    <string name="download_wallpaper_failed_notice">Échec du téléchargement du fond d\'écran</string>
+    <string name="no_network_message">Aucune connexion réseau</string>
+    <string name="download_wallpaper_list_failed_notice">Échec du chargement du répertoire des fonds d\'écran</string>
+    <string name="wallpaper_default_name">Fond d\'écran</string>
+    <string name="browse_theme_walls">Thèmes du fond d\'écran</string>
+    <string name="browse_theme_header">Thème des en-têtes</string>
+    <string name="pick_header">Sélectionner l\'en-tête</string>
+    <string name="pick_theme">Sélectionner un thème</string>
+    <string name="theme_disable">Par défaut</string>
+    <string name="sort_by_creator_menu">Trier par créateur</string>
+    <string name="sort_by_tag_menu">Trier par tag</string>
+    <string name="sort_by_default_menu">Trier par nom</string>
+    <string name="download_header_notice">Téléchargement de l\'entête</string>
+    <string name="download_header_failed_notice">Téléchargement de l\'entête</string>
+    <string name="header_location_local">Mon appareil</string>
+    <string name="header_location_online">A distance</string>
+    <string name="compose_theme">Composer le thème</string>
+    <string name="theme_accent">Couleur d\'accentuation</string>
+    <string name="theme_primary">Primaire</string>
+    <string name="theme_notification">Notification</string>
+    <string name="theme_compose">Composer </string>
+    <string name="button_apply">Appliquer</string>
+    <string name="notification_overlay_info">Un redémarrage est requis après\nle changement de la surcouche de notification</string>
+    <string name="wavvy_header">Wavvy (temps)</string>
+    <string name="nature_header">Nature (temps)</string>
+    <string name="nature_header_random">Nature (aléatoire)</string>
+    <string name="poly_header">Poly (temps)</string>
+</resources>

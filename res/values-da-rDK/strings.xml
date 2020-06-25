@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (C) 2017 The OmniROM Project
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources>
+    <string name="browse_header">Header</string>
+    <string name="custom_header_image_notice">Sæt header billede</string>
+    <string name="browse_walls">Baggrunde</string>
+    <string name="omni_walls">Omni</string>
+    <string name="wallpaper_type_dialog_title">Angiv baggrund</string>
+    <string name="wallpaper_type_both">Startskærm og låseskærm</string>
+    <string name="wallpaper_type_system">Startskærm</string>
+    <string name="wallpaper_type_lock">Låseskærm</string>
+    <string name="header_creator_label">Skaber\u003a </string>
+    <string name="no_crop_activity_dialog_text">Du skal have Omni Gallery appen, for at angive en baggrund</string>
+    <string name="no_crop_activity_dialog_title">Gallery kan ikke findes</string>
+    <string name="scrolling_wall_dialog_text">Vil du beskære baggrunden til skærm størelsen\u003f</string>
+    <string name="scrolling_wall_dialog_title">Beskær baggrund</string>
+    <string name="scrolling_wall_yes">Nej</string>
+    <string name="scrolling_wall_no">Ja</string>
+    <string name="wallpaper_location_local">Lokal</string>
+    <string name="wallpaper_location_remote">Ekstern</string>
+    <string name="download_wallpaper_notice">Downloader baggrund</string>
+    <string name="download_wallpaper_failed_notice">Downloadning af baggrunden fejlede</string>
+    <string name="no_network_message">Ingen netværksforbindelse</string>
+    <string name="download_wallpaper_list_failed_notice">Indlæsning af baggrunds-mappen mislykkedes</string>
+    <string name="wallpaper_default_name">Baggrund</string>
+    <string name="browse_theme_walls">Tema baggrunde</string>
+    <string name="browse_theme_header">Tema headers</string>
+    <string name="pick_header">Vælg header</string>
+    <string name="pick_theme">Vælg tema</string>
+    <string name="theme_disable">Standard</string>
+    <string name="sort_by_creator_menu">Sortér efter udgiver</string>
+    <string name="sort_by_tag_menu">Sortér efter tag</string>
+    <string name="sort_by_default_menu">Sortér efter navn</string>
+    <string name="download_header_notice">Downloader baggrund</string>
+    <string name="download_header_failed_notice">Downloadning af header fejlede</string>
+    <string name="header_location_local">Lokal</string>
+    <string name="header_location_online">Ekstern</string>
+    <string name="compose_theme">Lav tema</string>
+    <string name="theme_accent">Accent</string>
+    <string name="theme_primary">Primær</string>
+    <string name="theme_notification">Notifikation</string>
+    <string name="theme_compose">Lav</string>
+    <string name="button_apply">Anvend</string>
+    <string name="notification_overlay_info">Du skal genstarter din enhed, efter at have\nændret dit notifikations overlay</string>
+</resources>

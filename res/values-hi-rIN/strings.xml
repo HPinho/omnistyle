@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (C) 2017 The OmniROM Project
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources>
+    <string name="browse_header">हैडर</string>
+    <string name="custom_header_image_notice">हैडर फोटो सेट</string>
+    <string name="browse_walls">वॉलपेपर</string>
+    <string name="omni_walls">ओमनी</string>
+    <string name="wallpaper_type_dialog_title">वॉलपेपर सेट करें</string>
+    <string name="wallpaper_type_both">होम स्क्रीन और लॉकस्क्रीन</string>
+    <string name="wallpaper_type_system">होम स्क्रीन</string>
+    <string name="wallpaper_type_lock">लॉक स्क्रीन</string>
+    <string name="header_creator_label">बनाने वाला \ u003a </string>
+    <string name="no_crop_activity_dialog_text">वॉलपेपर सेट करने के लिए ओमनी गैलरी ऐप की आवश्यकता है</string>
+    <string name="no_crop_activity_dialog_title">गैलरी उपलब्ध नहीं है</string>
+    <string name="scrolling_wall_dialog_text">क्या आप वॉलपेपर की डिस्प्ले साइज \ u003f के हिसाब से काटछांट करना चाहते हैं</string>
+    <string name="scrolling_wall_dialog_title">वॉलपेपर की काटछांट करें</string>
+    <string name="scrolling_wall_yes">नहीं</string>
+    <string name="scrolling_wall_no">हाँ</string>
+    <string name="wallpaper_location_local">फोन</string>
+    <string name="wallpaper_location_remote">ऑनलाइन</string>
+    <string name="download_wallpaper_notice">वॉलपेपर डाउनलोड कर रहा है</string>
+    <string name="download_wallpaper_failed_notice">वॉलपेपर डाउनलोड करना विफल रहा</string>
+    <string name="no_network_message">कोई नेटवर्क उपलब्ध नहीं</string>
+    <string name="download_wallpaper_list_failed_notice">वॉलपेपर निर्देशिका लोड करना विफल रहा</string>
+    <string name="wallpaper_default_name">वॉलपेपर</string>
+    <string name="browse_theme_walls">थीम वॉलपेपर</string>
+    <string name="browse_theme_header">थीम हेडर</string>
+    <string name="pick_header">हेडर का चयन करें</string>
+    <string name="pick_theme">थीम का चयन करें</string>
+    <string name="theme_disable">पूर्व निर्धारित</string>
+    <string name="sort_by_creator_menu">निर्माता द्वारा क्रमबद्ध करें</string>
+    <string name="sort_by_tag_menu">टैग द्वारा क्रमबद्ध करें</string>
+    <string name="sort_by_default_menu">नाम द्वारा क्रमबद्ध करें</string>
+    <string name="download_header_notice">हेडर डाउनलोड हो रहा है</string>
+    <string name="download_header_failed_notice">हेडर डाउनलोड करना विफल रहा</string>
+    <string name="header_location_local">फोन</string>
+    <string name="header_location_online">ऑनलाइन</string>
+    <string name="compose_theme">थीम बनाएं</string>
+    <string name="theme_accent">उच्चारण</string>
+    <string name="theme_primary">मुख्य</string>
+    <string name="theme_notification">नोटिफिकेशन</string>
+    <string name="theme_compose">बनाएं</string>
+    <string name="button_apply">लागू करें</string>
+    <string name="notification_overlay_info">नोटिफिकेशन ओवरले बदलने \n के बाद फोन को दोबारा चालू करने की जरूरत होती है</string>
+    <string name="wavvy_header">लहर(समय)</string>
+    <string name="nature_header">प्रकृति (समय)</string>
+    <string name="nature_header_random">प्रकृति (समय)</string>
+    <string name="poly_header">पॉली (समय)</string>
+</resources>

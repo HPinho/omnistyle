@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (C) 2017 The OmniROM Project
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources>
+    <string name="browse_header">Загалоўкі</string>
+    <string name="custom_header_image_notice">Выява для загалоўка ўсталявана</string>
+    <string name="browse_walls">Шпалеры</string>
+    <string name="omni_walls">Omni</string>
+    <string name="wallpaper_type_dialog_title">Усталяваць шпалеры</string>
+    <string name="wallpaper_type_both">Галоўны экран і экран блакіроўкі</string>
+    <string name="wallpaper_type_system">Галоўны экран</string>
+    <string name="wallpaper_type_lock">Экран блакіроўкі</string>
+    <string name="header_creator_label">Аўтар\u003a </string>
+    <string name="no_crop_activity_dialog_text">Для ўсталёўкі шпалер патрабуецца праграма Omni Галерэя</string>
+    <string name="no_crop_activity_dialog_title">Галерэя адсутнічае</string>
+    <string name="scrolling_wall_dialog_text">Вы хочаце абрэзаць шпалеры па памеры экрана\u003f</string>
+    <string name="scrolling_wall_dialog_title">Абрэзаць шпалеры</string>
+    <string name="scrolling_wall_yes">Не</string>
+    <string name="scrolling_wall_no">Так</string>
+    <string name="wallpaper_location_local">Лакальныя</string>
+    <string name="wallpaper_location_remote">Анлайн</string>
+    <string name="download_wallpaper_notice">Спампоўка шпалер</string>
+    <string name="download_wallpaper_failed_notice">Не атрымалася спампаваць шпалеры</string>
+    <string name="no_network_message">Няма падключэння да сеткі</string>
+    <string name="download_wallpaper_list_failed_notice">Не атрымалася спампаваць каталог шпалер</string>
+    <string name="wallpaper_default_name">Шпалеры</string>
+    <string name="browse_theme_walls">Шпалеры тэмы</string>
+    <string name="browse_theme_header">Вокладкі тэмы</string>
+    <string name="pick_header">Выбраць вокладку</string>
+    <string name="pick_theme">Выбраць тэму</string>
+    <string name="theme_disable">Па змаўчанні</string>
+    <string name="sort_by_creator_menu">Сартаваць па імені аўтара</string>
+    <string name="sort_by_tag_menu">Сартаваць па тэгу</string>
+    <string name="sort_by_default_menu">Сартаваць па імені</string>
+    <string name="download_header_notice">Спампоўка загалоўка</string>
+    <string name="download_header_failed_notice">Не атрымалася спампаваць загаловак</string>
+    <string name="header_location_local">Лакальныя</string>
+    <string name="header_location_online">Анлайн</string>
+    <string name="compose_theme">Стварыць тэму</string>
+    <string name="theme_accent">Адценне</string>
+    <string name="theme_primary">Асноўны</string>
+    <string name="theme_notification">Апавяшчэнне</string>
+    <string name="theme_compose">Стварыць</string>
+    <string name="button_apply">Ужыць</string>
+    <string name="notification_overlay_info">Патрабуецца перазагрузка прылады пасля\nзмянення напластавання апавяшчэнняў</string>
+    <string name="wavvy_header">Хваля (час)</string>
+    <string name="nature_header">Прырода (час)</string>
+    <string name="nature_header_random">Прырода (выпадкова)</string>
+    <string name="poly_header">Полі (час)</string>
+</resources>
